@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "components.bundle.css",
+  "sources": [
+    "App.svelte"
+  ],
+  "sourcesContent": [
+    "<script></script>\n<style type=\"text/postcss\" lang=\"postcss\">#main{display:flex;justify-content:center;align-items:center}h1{font-size:1.25rem;text-decoration:underline;margin-right:.5rem}button{border-radius:.75rem;padding:.25rem .5rem;background-color:#fc8181;background-color:rgba(252,129,129,var(--bg-opacity));color:#fff;color:rgba(255,255,255,var(--text-opacity));box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)}button,button:hover{--bg-opacity:1;--text-opacity:1}button:hover{color:#fc8181;color:rgba(252,129,129,var(--text-opacity));background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity));box-shadow:0 0 0 0 rgba(0,0,0,.2),0 0 0 0 rgba(0,0,0,.14),0 0 0 0 rgba(0,0,0,.12);--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity));border-width:1px}\n</style>\n\n<div id=\"main\">\n    <h1>Welcome</h1>\n    <button>Contoh tombol</button>\n</div>"
+  ],
+  "names": [],
+  "mappings": "AAC0C,mBAAK,CAAC,QAAQ,IAAI,CAAC,gBAAgB,MAAM,CAAC,YAAY,MAAM,CAAC,gBAAE,CAAC,UAAU,OAAO,CAAC,gBAAgB,SAAS,CAAC,aAAa,KAAK,CAAC,oBAAM,CAAC,cAAc,MAAM,CAAC,QAAQ,MAAM,CAAC,KAAK,CAAC,iBAAiB,OAAO,CAAC,iBAAiB,KAAK,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,YAAY,CAAC,CAAC,CAAC,MAAM,IAAI,CAAC,MAAM,KAAK,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,cAAc,CAAC,CAAC,CAAC,WAAW,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,oBAAM,CAAC,oBAAM,MAAM,CAAC,aAAa,CAAC,CAAC,eAAe,CAAC,CAAC,oBAAM,MAAM,CAAC,MAAM,OAAO,CAAC,MAAM,KAAK,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,cAAc,CAAC,CAAC,CAAC,iBAAiB,IAAI,CAAC,iBAAiB,KAAK,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,YAAY,CAAC,CAAC,CAAC,WAAW,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,iBAAiB,CAAC,CAAC,aAAa,OAAO,CAAC,aAAa,KAAK,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,gBAAgB,CAAC,CAAC,CAAC,aAAa,GAAG,CAAC"
+}
